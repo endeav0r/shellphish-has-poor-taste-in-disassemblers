@@ -226,3 +226,8 @@ last_change = 1628118508
 addr = 36528
 name = "print_file_name_and_frills"
 last_change = 1628118516
+
+[9ab0]
+addr = 39600
+name = "quote_name_width"
+last_change = 1628118519
