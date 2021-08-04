@@ -132,3 +132,8 @@ last_change = 1628119259
 addr = 31296
 name = "get_type_indicator"
 last_change = 1628119264
+
+[7b30]
+addr = 31536
+name = "print_type_indicator"
+last_change = 1628119268
