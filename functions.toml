@@ -566,3 +566,8 @@ last_change = 1628118788
 addr = 60800
 name = "compute_bucket_size"
 last_change = 1628118792
+
+[eeb0]
+addr = 61104
+name = "transfer_entries"
+last_change = 1628118795
