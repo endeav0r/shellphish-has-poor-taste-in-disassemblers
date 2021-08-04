@@ -102,3 +102,8 @@ last_change = 1628119235
 addr = 30704
 name = "file_failure"
 last_change = 1628119239
+
+[7860]
+addr = 30816
+name = "strcmp_size"
+last_change = 1628119244
