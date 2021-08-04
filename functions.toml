@@ -546,3 +546,8 @@ last_change = 1628118769
 addr = 60128
 name = "gettime"
 last_change = 1628118773
+
+[eb50]
+addr = 60240
+name = "hard_locale"
+last_change = 1628118781
