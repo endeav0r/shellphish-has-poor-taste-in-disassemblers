@@ -497,3 +497,8 @@ last_change = 1628119562
 addr = 58000
 name = "record_file"
 last_change = 1628119566
+
+[e320]
+addr = 58144
+name = "seen_file"
+last_change = 1628119570
