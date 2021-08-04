@@ -247,3 +247,8 @@ last_change = 1628119365
 addr = 42736
 name = "rev_strcmp_df_size_0"
 last_change = 1628119368
+
+[a770]
+addr = 42864
+name = "rev_xstrcoll_size"
+last_change = 1628119371
