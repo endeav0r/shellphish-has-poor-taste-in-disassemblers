@@ -591,3 +591,8 @@ last_change = 1628118807
 addr = 64416
 name = "hash_insert"
 last_change = 1628118811
+
+[fc00]
+addr = 64512
+name = "hash_delete"
+last_change = 1628118815
