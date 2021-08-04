@@ -422,3 +422,8 @@ last_change = 1628119504
 addr = 52144
 name = "strcmp_df_extension"
 last_change = 1628119508
+
+[cca0]
+addr = 52384
+name = "usage"
+last_change = 1628119512
