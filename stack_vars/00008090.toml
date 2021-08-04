@@ -1,0 +1,8 @@
+[-a8]
+func_addr = 32912
+name = "oldset"
+stack_offset = -168
+stack_offset_type = 1
+size = 128
+type = "sigset_t"
+last_change = 1628119300
