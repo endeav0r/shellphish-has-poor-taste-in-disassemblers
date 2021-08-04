@@ -56,3 +56,8 @@ last_change = 1628118369
 addr = 27456
 name = "is_colored"
 last_change = 1628118373
+
+[6bb0]
+addr = 27568
+name = "set_line_length"
+last_change = 1628118377
