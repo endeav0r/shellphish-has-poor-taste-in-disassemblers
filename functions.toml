@@ -72,3 +72,8 @@ last_change = 1628119210
 addr = 29456
 name = "xstrcoll"
 last_change = 1628119213
+
+[7390]
+addr = 29584
+name = "extract_dirs_from_files"
+last_change = 1628119218
