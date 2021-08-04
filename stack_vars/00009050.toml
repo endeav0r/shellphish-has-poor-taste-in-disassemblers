@@ -1,3 +1,12 @@
+[-1338]
+func_addr = 36944
+name = "v67"
+stack_offset = -4920
+stack_offset_type = 1
+size = 8
+type = "time_t"
+last_change = 1628117484
+
 [-1328]
 func_addr = 36944
 name = "a3"
