@@ -17,3 +17,8 @@ last_change = 1628119163
 addr = 26736
 name = "__do_global_dtors_aux"
 last_change = 1628119168
+
+[6910]
+addr = 26896
+name = "get_funky_string"
+last_change = 1628119172
