@@ -551,3 +551,8 @@ last_change = 1628118773
 addr = 60240
 name = "hard_locale"
 last_change = 1628118781
+
+[ec00]
+addr = 60416
+name = "hash_find_entry"
+last_change = 1628118784
