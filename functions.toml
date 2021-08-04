@@ -342,3 +342,8 @@ last_change = 1628119440
 addr = 50256
 name = "strcmp_df_atime_0"
 last_change = 1628119444
+
+[c4d0]
+addr = 50384
+name = "xstrcoll_mtime_0"
+last_change = 1628119449
