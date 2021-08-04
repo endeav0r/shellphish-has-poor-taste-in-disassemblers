@@ -1,0 +1,16 @@
+[struct_metadata]
+name = "LONG_DOUBLE_16"
+size = 16
+last_change = 1628116390
+
+[0]
+member_name = "value"
+offset = 0
+type = ""
+size = 10
+
+[a]
+member_name = "padding"
+offset = 10
+type = ""
+size = 6
