@@ -452,3 +452,8 @@ last_change = 1628119527
 addr = 55216
 name = "__xargmatch_internal"
 last_change = 1628119531
+
+[d890]
+addr = 55440
+name = "c_strncasecmp"
+last_change = 1628119535
