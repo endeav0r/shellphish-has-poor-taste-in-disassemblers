@@ -12,3 +12,8 @@ last_change = 1628119160
 addr = 26800
 name = "j_register_tm_clones"
 last_change = 1628119163
+
+[6870]
+addr = 26736
+name = "__do_global_dtors_aux"
+last_change = 1628119168
