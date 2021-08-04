@@ -87,3 +87,8 @@ last_change = 1628119222
 addr = 30192
 name = "dired_dump_obstack"
 last_change = 1628119225
+
+[76c0]
+addr = 30400
+name = "format_user_or_group"
+last_change = 1628119230
