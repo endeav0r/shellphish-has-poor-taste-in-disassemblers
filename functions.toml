@@ -36,3 +36,8 @@ last_change = 1628118353
 addr = 26672
 name = "register_tm_clones"
 last_change = 1628118356
+
+[68b0]
+addr = 26800
+name = "j_register_tm_clones"
+last_change = 1628118361
