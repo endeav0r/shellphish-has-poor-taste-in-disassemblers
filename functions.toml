@@ -47,3 +47,8 @@ last_change = 1628119187
 addr = 28448
 name = "free_ent"
 last_change = 1628119192
+
+[6f70]
+addr = 28528
+name = "clear_files"
+last_change = 1628119196
