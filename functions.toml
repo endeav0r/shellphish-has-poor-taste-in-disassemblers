@@ -142,3 +142,8 @@ last_change = 1628119268
 addr = 31616
 name = "strcmp_df_atime"
 last_change = 1628119272
+
+[7cd0]
+addr = 31952
+name = "rev_strcmp_df_extension"
+last_change = 1628119275
