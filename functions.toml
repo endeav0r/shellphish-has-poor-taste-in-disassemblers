@@ -251,3 +251,8 @@ last_change = 1628118535
 addr = 41376
 name = "print_current_files"
 last_change = 1628118539
+
+[a530]
+addr = 42288
+name = "rev_strcmp_df_size"
+last_change = 1628118543
