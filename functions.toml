@@ -141,3 +141,8 @@ last_change = 1628118435
 addr = 30880
 name = "xstrcoll_df_name"
 last_change = 1628118439
+
+[7900]
+addr = 30976
+name = "xstrcoll_df_name_0"
+last_change = 1628118444
