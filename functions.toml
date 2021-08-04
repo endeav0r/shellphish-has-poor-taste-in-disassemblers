@@ -421,3 +421,8 @@ last_change = 1628118672
 addr = 51280
 name = "xstrcoll_extension"
 last_change = 1628118676
+
+[c8c0]
+addr = 51392
+name = "rev_xstrcoll_extension"
+last_change = 1628118680
