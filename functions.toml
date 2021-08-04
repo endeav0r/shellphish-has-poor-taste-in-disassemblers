@@ -272,3 +272,8 @@ last_change = 1628119384
 addr = 43264
 name = "format_user_width"
 last_change = 1628119389
+
+[a9d0]
+addr = 43472
+name = "gobble_file"
+last_change = 1628119392
