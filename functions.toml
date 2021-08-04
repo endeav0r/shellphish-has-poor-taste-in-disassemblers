@@ -187,3 +187,8 @@ last_change = 1628119308
 addr = 34384
 name = "quote_name"
 last_change = 1628119312
+
+[8a60]
+addr = 35424
+name = "print_name_with_quoting"
+last_change = 1628119316
