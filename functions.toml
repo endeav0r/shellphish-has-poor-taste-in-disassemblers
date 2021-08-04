@@ -417,3 +417,8 @@ last_change = 1628119499
 addr = 52016
 name = "rev_strcmp_extension"
 last_change = 1628119504
+
+[cbb0]
+addr = 52144
+name = "strcmp_df_extension"
+last_change = 1628119508
