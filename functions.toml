@@ -42,3 +42,8 @@ last_change = 1628119184
 addr = 28288
 name = "queue_directory"
 last_change = 1628119187
+
+[6f20]
+addr = 28448
+name = "free_ent"
+last_change = 1628119192
