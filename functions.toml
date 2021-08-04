@@ -97,3 +97,8 @@ last_change = 1628119230
 addr = 30592
 name = "format_user"
 last_change = 1628119235
+
+[77f0]
+addr = 30704
+name = "file_failure"
+last_change = 1628119239
