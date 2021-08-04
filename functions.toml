@@ -196,3 +196,8 @@ last_change = 1628118481
 addr = 32864
 name = "restore_default_color"
 last_change = 1628118484
+
+[8090]
+addr = 32912
+name = "process_signals"
+last_change = 1628118489
