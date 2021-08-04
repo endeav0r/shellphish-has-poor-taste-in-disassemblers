@@ -1,7 +1,7 @@
 [struct_metadata]
 name = "timezone_string_thing"
 size = 9
-last_change = 1628117380
+last_change = 1628117512
 
 [0]
 member_name = "field_0"
@@ -16,7 +16,7 @@ type = ""
 size = 1
 
 [9]
-member_name = "field_9"
+member_name = "string_buf"
 offset = 9
 type = ""
 size = 0
