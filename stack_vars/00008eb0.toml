@@ -1,0 +1,8 @@
+[-2b8]
+func_addr = 36528
+name = "buf"
+stack_offset = -696
+stack_offset_type = 1
+size = 652
+type = "char[652]"
+last_change = 1628119324
