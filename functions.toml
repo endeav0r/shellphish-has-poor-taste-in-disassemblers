@@ -576,3 +576,8 @@ last_change = 1628118795
 addr = 62048
 name = "hash_lookup"
 last_change = 1628118799
+
+[f4c0]
+addr = 62656
+name = "hash_initialize"
+last_change = 1628118804
