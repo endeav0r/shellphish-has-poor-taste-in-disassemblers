@@ -22,3 +22,8 @@ last_change = 1628119168
 addr = 26896
 name = "get_funky_string"
 last_change = 1628119172
+
+[6b40]
+addr = 27456
+name = "is_colored"
+last_change = 1628119175
