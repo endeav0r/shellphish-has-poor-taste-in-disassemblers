@@ -182,3 +182,8 @@ last_change = 1628119305
 addr = 33248
 name = "quote_name_buf"
 last_change = 1628119308
+
+[8650]
+addr = 34384
+name = "quote_name"
+last_change = 1628119312
