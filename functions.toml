@@ -191,3 +191,8 @@ last_change = 1628118477
 addr = 32752
 name = "put_indicator"
 last_change = 1628118481
+
+[8060]
+addr = 32864
+name = "restore_default_color"
+last_change = 1628118484
