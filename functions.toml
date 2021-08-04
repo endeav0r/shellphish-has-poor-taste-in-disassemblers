@@ -61,3 +61,8 @@ last_change = 1628118373
 addr = 27568
 name = "set_line_length"
 last_change = 1628118377
+
+[6c30]
+addr = 27696
+name = "abformat_init"
+last_change = 1628118380
