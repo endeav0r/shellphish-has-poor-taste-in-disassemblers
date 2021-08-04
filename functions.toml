@@ -136,3 +136,8 @@ last_change = 1628118432
 addr = 30816
 name = "strcmp_size"
 last_change = 1628118435
+
+[78a0]
+addr = 30880
+name = "xstrcoll_df_name"
+last_change = 1628118439
