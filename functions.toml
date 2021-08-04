@@ -457,3 +457,8 @@ last_change = 1628119531
 addr = 55440
 name = "c_strncasecmp"
 last_change = 1628119535
+
+[d900]
+addr = 55552
+name = "canonicalize_filename_mode"
+last_change = 1628119539
