@@ -596,3 +596,8 @@ last_change = 1628118811
 addr = 64512
 name = "hash_delete"
 last_change = 1628118815
+
+[fe00]
+addr = 65024
+name = "triple_hash"
+last_change = 1628118819
