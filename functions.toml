@@ -586,3 +586,8 @@ last_change = 1628118804
 addr = 63104
 name = "hash_free"
 last_change = 1628118807
+
+[fba0]
+addr = 64416
+name = "hash_insert"
+last_change = 1628118811
