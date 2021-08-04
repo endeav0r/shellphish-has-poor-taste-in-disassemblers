@@ -122,3 +122,8 @@ last_change = 1628119251
 addr = 31072
 name = "rev_xstrcoll_df_name"
 last_change = 1628119255
+
+[79d0]
+addr = 31184
+name = "rev_strcmp_df_name"
+last_change = 1628119259
