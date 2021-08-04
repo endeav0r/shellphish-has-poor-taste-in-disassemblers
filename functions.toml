@@ -491,3 +491,8 @@ last_change = 1628118727
 addr = 55552
 name = "canonicalize_filename_mode"
 last_change = 1628118730
+
+[dfe0]
+addr = 57312
+name = "close_stdout"
+last_change = 1628118735
