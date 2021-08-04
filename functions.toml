@@ -281,3 +281,8 @@ last_change = 1628118559
 addr = 42864
 name = "rev_xstrcoll_size"
 last_change = 1628118567
+
+[a7b0]
+addr = 42928
+name = "rev_xstrcoll_size_0"
+last_change = 1628118572
