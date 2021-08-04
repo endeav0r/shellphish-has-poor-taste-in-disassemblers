@@ -147,3 +147,8 @@ last_change = 1628119272
 addr = 31952
 name = "rev_strcmp_df_extension"
 last_change = 1628119275
+
+[7dc0]
+addr = 32192
+name = "signal_setup"
+last_change = 1628119281
