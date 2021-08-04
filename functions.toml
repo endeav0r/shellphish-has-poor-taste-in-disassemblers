@@ -206,3 +206,8 @@ last_change = 1628118493
 addr = 33136
 name = "set_normal_color"
 last_change = 1628118496
+
+[81e0]
+addr = 33248
+name = "quote_name_buf"
+last_change = 1628118501
