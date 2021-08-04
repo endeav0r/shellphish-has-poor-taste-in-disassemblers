@@ -412,3 +412,8 @@ last_change = 1628119495
 addr = 51888
 name = "strcmp_extension"
 last_change = 1628119499
+
+[cb30]
+addr = 52016
+name = "rev_strcmp_extension"
+last_change = 1628119504
