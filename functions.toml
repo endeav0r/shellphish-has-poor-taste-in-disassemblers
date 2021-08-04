@@ -186,3 +186,8 @@ last_change = 1628118473
 addr = 32656
 name = "prep_non_filename_text"
 last_change = 1628118477
+
+[7ff0]
+addr = 32752
+name = "put_indicator"
+last_change = 1628118481
