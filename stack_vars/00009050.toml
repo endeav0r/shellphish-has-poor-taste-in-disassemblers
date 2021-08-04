@@ -15,3 +15,12 @@ stack_offset_type = 1
 size = 56
 type = "struct tm"
 last_change = 1628117481
+
+[-12e8]
+func_addr = 36944
+name = "v70"
+stack_offset = -4840
+stack_offset_type = 1
+size = 56
+type = "struct tm"
+last_change = 1628117492
