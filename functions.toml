@@ -166,3 +166,8 @@ last_change = 1628118458
 addr = 31536
 name = "print_type_indicator"
 last_change = 1628118461
+
+[7b80]
+addr = 31616
+name = "strcmp_df_atime"
+last_change = 1628118466
