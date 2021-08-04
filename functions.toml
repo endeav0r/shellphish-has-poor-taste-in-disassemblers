@@ -26,3 +26,8 @@ last_change = 1628117495
 addr = 93328
 name = "set_timezone"
 last_change = 1628118170
+
+[6800]
+addr = 26624
+name = "deregister_tm_clones"
+last_change = 1628118353
