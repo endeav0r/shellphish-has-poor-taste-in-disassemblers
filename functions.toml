@@ -407,3 +407,8 @@ last_change = 1628119491
 addr = 51696
 name = "rev_xstrcoll_df_extension"
 last_change = 1628119495
+
+[cab0]
+addr = 51888
+name = "strcmp_extension"
+last_change = 1628119499
