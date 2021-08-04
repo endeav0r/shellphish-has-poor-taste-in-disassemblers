@@ -92,3 +92,8 @@ last_change = 1628119225
 addr = 30400
 name = "format_user_or_group"
 last_change = 1628119230
+
+[7780]
+addr = 30592
+name = "format_user"
+last_change = 1628119235
