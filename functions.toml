@@ -561,3 +561,8 @@ last_change = 1628118784
 addr = 60672
 name = "check_tuning"
 last_change = 1628118788
+
+[ed80]
+addr = 60800
+name = "compute_bucket_size"
+last_change = 1628118792
