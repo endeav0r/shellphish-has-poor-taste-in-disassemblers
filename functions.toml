@@ -581,3 +581,8 @@ last_change = 1628118799
 addr = 62656
 name = "hash_initialize"
 last_change = 1628118804
+
+[f680]
+addr = 63104
+name = "hash_free"
+last_change = 1628118807
