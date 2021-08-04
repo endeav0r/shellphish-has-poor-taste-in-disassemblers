@@ -1,0 +1,16 @@
+[struct_metadata]
+name = "timeval"
+size = 16
+last_change = 1628118776
+
+[0]
+member_name = "tv_sec"
+offset = 0
+type = "__time_t"
+size = 8
+
+[8]
+member_name = "tv_usec"
+offset = 8
+type = ""
+size = 8
