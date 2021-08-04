@@ -306,3 +306,8 @@ last_change = 1628118583
 addr = 43472
 name = "gobble_file"
 last_change = 1628118587
+
+[b8c0]
+addr = 47296
+name = "print_dir"
+last_change = 1628118591
