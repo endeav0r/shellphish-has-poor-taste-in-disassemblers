@@ -1,0 +1,16 @@
+[struct_metadata]
+name = "timezone"
+size = 8
+last_change = 1628116919
+
+[0]
+member_name = "tz_minuteswest"
+offset = 0
+type = "int"
+size = 4
+
+[4]
+member_name = "tz_dsttime"
+offset = 4
+type = ""
+size = 4
