@@ -217,3 +217,8 @@ last_change = 1628119341
 addr = 40928
 name = "print_with_separator"
 last_change = 1628119344
+
+[a1a0]
+addr = 41376
+name = "print_current_files"
+last_change = 1628119348
