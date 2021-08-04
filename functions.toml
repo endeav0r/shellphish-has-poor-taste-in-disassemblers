@@ -156,3 +156,8 @@ last_change = 1628118450
 addr = 31184
 name = "rev_strcmp_df_name"
 last_change = 1628118454
+
+[7a40]
+addr = 31296
+name = "get_type_indicator"
+last_change = 1628118458
