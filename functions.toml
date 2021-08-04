@@ -12,3 +12,8 @@ last_change = 1628116397
 addr = 95568
 name = "fini"
 last_change = 1628116402
+
+[16d50]
+addr = 93520
+name = "strdup"
+last_change = 1628116835
