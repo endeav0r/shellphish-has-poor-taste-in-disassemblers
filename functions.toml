@@ -316,3 +316,8 @@ last_change = 1628118591
 addr = 49088
 name = "rev_xstrcoll_ctime"
 last_change = 1628118596
+
+[c010]
+addr = 49168
+name = "rev_xstrcoll_atime"
+last_change = 1628118599
