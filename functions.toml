@@ -111,3 +111,8 @@ last_change = 1628118411
 addr = 29984
 name = "indent"
 last_change = 1628118415
+
+[75f0]
+addr = 30192
+name = "dired_dump_obstack"
+last_change = 1628118420
