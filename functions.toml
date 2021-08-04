@@ -467,3 +467,8 @@ last_change = 1628119539
 addr = 57312
 name = "close_stdout"
 last_change = 1628119543
+
+[e090]
+addr = 57488
+name = "dir_len"
+last_change = 1628119547
